@@ -14,7 +14,7 @@ namespace Calculator
     public partial class Form1 : Form
     {
     
-    //GITHUBDA DEYISDIM
+    //Lokal Ikinci Defe Olan
     
         double eded1, eded2;
         string operatorr;
