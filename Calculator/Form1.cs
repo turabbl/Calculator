@@ -13,6 +13,9 @@ namespace Calculator
 {
     public partial class Form1 : Form
     {
+    
+    //GITHUBDA DEYISDIM
+    
         double eded1, eded2;
         string operatorr;
         bool waitinganswer = false;
