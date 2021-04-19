@@ -8,6 +8,9 @@ namespace Calculator
 {
     static class Program
     {
+
+//Lokalda Elediyim Deyisiklik
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
