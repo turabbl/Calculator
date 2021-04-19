@@ -14,7 +14,7 @@ namespace Calculator
     public partial class Form1 : Form
     {
     
-    //GITHUBDA DEYISDIM
+    //Ikinci,Yeni Remote github deyisdim
     
         double eded1, eded2;
         string operatorr;
